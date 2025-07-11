@@ -1,1 +1,1 @@
-### **a repository for testing automated deployment**
+### **A repository for testing automated deployment**
